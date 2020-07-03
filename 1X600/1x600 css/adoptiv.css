@@ -1,0 +1,98 @@
+@media only screen and (max-width: 330px){
+    body{    
+        background-color: #f5f5f5;
+        width: 100%;
+        max-width: 320px;
+        height: 1254px;        
+        font-family: 'Roboto', sans-serif; 
+    }
+
+.conteiner{
+        width: 290px;
+        height: 1100px;       
+    }
+    .section{
+        width: 260px;
+        height: 310px;
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+  
+    .title{        
+        font-size: 26px;        
+    }
+    .title_p{        
+        font-size: 16px; 
+        line-height: 1;              
+    }
+    .title_section{        
+        font-size: 16px;       
+    }
+    .section_a{
+        text-align: left;
+        display: block; 
+        border-bottom: 2px dotted #756d5e;     
+    }
+    .katigori{
+        font-size: 12px;
+        padding-top: 19px;
+    }
+    .info{        
+        font-size: 12px;
+        text-align: left;                   
+    }
+    .section_b{
+        text-align: left;
+         display: inline;       
+    }
+    /* кнопка */
+.section_batton{
+    width: 260px;
+    height: 410px;
+    margin-left: 16px;
+    margin-top: 20px;
+}
+.title_section{
+    font-size: 14px;   
+}
+.info_a{   
+    font-size: 12px;    
+}
+.batton{
+    display: block;
+    padding-bottom: 15px;
+    border-bottom: 2px dotted #756d5e; 
+}
+.batton_2{
+    display: block;       
+}
+.footer{
+    text-align: center;
+    height: 75px;
+}
+.footer_p{    
+    color: #8f8f8f;
+    font-size: 12px;
+    max-width: 255px;
+    padding-left: 20px; 
+    text-align: center;       
+}
+.footer_info{
+    width: 320px;
+    height: 193px;
+    margin: 0 auto;
+}
+.footer_meseeg{
+    width: 145px;
+    height: 32px;   
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 18px;
+}
+.meseeg{    
+    font-size: 10px;
+}
+.text{    
+    font-size: 10px;       
+}
+}
