@@ -16,19 +16,21 @@ h1, h2, h3, h4, h5, h6{
  }
 .conteiner{
   width: 600px;
-  height: 900px;
+  height: 864px;
   background-color: #fff;
   margin: 0 auto;
+  margin-bottom: -15px;
 }
   .hedor{
     padding-left: 32px;
+    
 }
 .logo{
     padding-top: 32px;
 }
 .title{
     color: rgb(0, 0, 0);
-    font-size: 36px;
+    font-size: 38px;
     font-family: 'Roboto', sans-serif;     
     line-height: 1;
     text-align: left;
@@ -37,7 +39,7 @@ h1, h2, h3, h4, h5, h6{
 .namber{
     border-radius: 20px;
     text-align: center;
-    padding-top: 5px;
+    padding-top: 4px;
     width: 26px;
     height: 26px;
     background-color: #bda776;
@@ -45,11 +47,11 @@ h1, h2, h3, h4, h5, h6{
 }
 .title_p{   
     display: flex; 
-    margin-top: 19px;  
+    margin-top: 2px;  
     align-items: baseline;
 }  
 .title_a{
-    padding-left: 17px;
+    padding-left: 19px;
     color:#131010;
     font-size: 20px;
     line-height: 0.2;
@@ -61,7 +63,7 @@ h1, h2, h3, h4, h5, h6{
     height: 261px;
     background-color: #f5f5f5;
     margin-left: 32px;
-    margin-top: 30px;
+    margin-top: 22px;
     border-radius: 11px;
 }
 .section_hedor{
@@ -70,9 +72,9 @@ h1, h2, h3, h4, h5, h6{
 }
 .title_section{
     color: #000;
-    font-size: 18px;
+    font-size: 20px;
     text-align: left;
-    padding-top: 25px;
+    padding-top: 23px;
 }
 .section_a{
     display: grid;
@@ -83,19 +85,22 @@ h1, h2, h3, h4, h5, h6{
 .section_b{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    align-items: baseline;       
+    align-items: baseline; 
+    margin-top: -12px;      
 }
 .katigori{
     color: #000;
-    font-size: 14px;
+    font-size: 15px;
     text-align: left;
     padding-top: 30px;
+    line-height: 0.8;
 }
 .info{
     color: #bda776;
     font-size: 14px;
     text-align: right;    
     padding: 0px;
+    line-height: 0.9;
 }
 .street{   
     color: #8f8f8f;   
@@ -103,22 +108,22 @@ h1, h2, h3, h4, h5, h6{
     text-align: right;
     width: 237px;
     border-bottom:1px solid #8f8f8f;
-    line-height: 1.4;
+    line-height: 2.8;
 }
 .section_batton{
     width: 544px;
     height: 320px;
     background-color: #f5f5f5;
-    margin-left: 32px;
-    margin-top: 30px;
+    margin-left: 31px;
+    margin-top: 31px;
     border-radius: 11px;
 }
 .info_a{
     color: #bda776;
-    font-size: 14px;
+    font-size: 15px;
     text-align: left;    
     padding: 0px;
-    line-height: 0.2;
+    line-height: 0.1;
 }
 .batton{
     display: flex;
@@ -140,19 +145,19 @@ h1, h2, h3, h4, h5, h6{
     background: #0a0a0a;
     width: 200px;
     height: 46px;    
-    border-radius: 4px;
+    border-radius: 10px;
     padding-top: 1px;
-    margin-top: 20px;
-    margin-left: 24px;
+    margin-top: 12px;
+    margin-left: 23px;
     display: flex;
     transition: 0.5s linear;
 }
 .batton_p{
     color: #fff;
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
     text-decoration: none;
-    padding-top: 15px;
+    padding-top: 14px;
 }
 .batton_img{
     padding: 12px;
@@ -165,7 +170,7 @@ h1, h2, h3, h4, h5, h6{
 .namber_b{
     border-radius: 20px;
     text-align: center;
-    padding-top: 5px;
+    padding-top: 1px;    
     width: 26px;
     height: 26px;
     background-color: #bda776;
@@ -199,7 +204,7 @@ h1, h2, h3, h4, h5, h6{
     height: 30px;
     padding-left: 54px;
     padding-top: 14px;
-    margin-bottom: 5px;
+    
 }
 .info_adres{     
     color: #bda776;   
