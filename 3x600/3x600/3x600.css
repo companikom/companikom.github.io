@@ -1,0 +1,242 @@
+body{    
+    background-color: #f5f5f5;
+    width: 100%;
+    max-width: 1440px;
+    height: 1630px;
+    margin-top: 98px;
+    font-family: 'Roboto', sans-serif; 
+}
+*,
+*:before,
+*:after{
+    box-sizing: border-box;
+}
+h1, h2, h3, h4, h5, h6{
+    margin: 0;
+ }
+.conteiner{
+  width: 600px;
+  height: 1214px;
+  background-color: #fff;
+  margin: 0 auto;
+}
+  .hedor{
+    padding-left: 32px;
+}
+.logo{
+    padding-top: 32px;
+}
+.title{
+    color: rgb(0, 0, 0);
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;     
+    line-height: 1;
+    text-align: left;
+    margin-top: 32px;
+}
+.title_p{   
+    display: flex; 
+    margin-top: 19px;  
+    align-items: baseline;
+}  
+.title_a{
+    padding-left: 17px;
+    color:#131010;
+    font-size: 20px;
+    line-height: 1;
+    text-align: left;
+}      
+/* cekwbz */
+.section{
+    width: 544px;
+    height: 261px;
+    background-color: #f5f5f5;
+    margin-left: 32px;
+    margin-top: 30px;
+    border-radius: 11px;
+    
+}
+.section_hedor{
+    padding-left: 25px; 
+    padding-right: 25px;   
+}
+.title_section{
+    color: #000;
+    font-size: 18px;
+    text-align: left;
+    padding-top: 10px;
+}
+.section_a{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: baseline; 
+    border-bottom: 2px dotted #756d5e;     
+}
+.section_b{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: baseline;       
+}
+.katigori{
+    color: #000;
+    font-size: 18px;
+    text-align: left;
+    padding-top: 30px;
+}
+.info{
+    color: #bda776;
+    font-size: 14px;
+    text-align: right;    
+    padding: 0px;
+}
+.street{   
+    color: #8f8f8f;   
+    font-size: 14px;
+    text-align: right;
+    width: 237px;
+    border-bottom:1px solid #8f8f8f;
+    line-height: 1.4;
+}
+.section_batton{
+    width: 544px;
+    height: 320px;
+    background-color: #f5f5f5;
+    margin-left: 32px;
+    margin-top: 30px;
+    border-radius: 11px;
+}
+.info_a{
+    color: #bda776;
+    font-size: 14px;
+    text-align: left;    
+    padding: 0px;
+    line-height: 0.2;
+}
+
+.batton_2{
+    display: flex;
+    padding-bottom: 20px;    
+}
+.batton_b:hover{
+    background: #bda776;   
+}
+.batt{
+    padding-left: 40px;
+}
+.batton_b{
+    background: #0a0a0a;
+    width: 200px;
+    height: 46px;    
+    border-radius: 4px;
+    padding-top: 1px;
+    margin-top: 20px;
+    margin-left: 24px;
+    display: flex;
+}
+.batton_p{
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 15px;
+}
+.batton_img{
+    padding: 12px;
+}
+/* 2секция */
+.con{    
+    height: 1100px; 
+    margin-top: 30px;   
+}
+.namber_b{
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 5px;
+    width: 26px;
+    height: 26px;
+    background-color: #bda776;
+    color: #fff;      
+}
+.title_se{   
+    display: flex; 
+    padding-top: 32px;  
+    align-items: baseline;
+}  
+.title_b{
+    font-size: 20px;
+    color: black;
+    padding-left: 17px;
+}
+.info1{
+    height: 385px;
+    
+}
+.heit{
+    line-height: 1;
+    font-size: 14px;
+}
+.bat{
+    height: 165px;
+}
+.footer_p{
+    text-align: center;
+    color: #8f8f8f;
+    font-size: 12px;
+    width: 492px;
+    height: 30px;
+    padding-left: 54px;
+    padding-top: 30px;
+}
+.info_adres{     
+    color: #bda776;   
+    font-size: 12px;  
+ }
+ /* rjytw */
+ .footer_info{
+    width: 600px;
+    height: 318px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.footer_1{
+    display: flex;
+    justify-content: space-between;
+}
+.footer_meseeg{
+    width: 177px;
+    height: 32px;
+    border-radius: 16px;
+    background-color: #404040;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 30px;
+}
+.meseeg{
+    text-decoration: none;
+    color: #8f8f8f;
+    font-size: 12px;
+}
+.meseeg_info{
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+    background-color: #404040;
+    text-align: center;
+    padding-top: 7px;
+    margin-top: 30px;  
+    margin-right: 15px;  
+}
+.footer_2{
+    display: flex;       
+}
+.footer_imblem{
+    display: flex;
+    margin-top: 38px;
+}
+.text{
+    color: #8f8f8f;
+    font-size: 12px;
+    line-height: 1.25;
+    margin-left: 9px;
+    
+}

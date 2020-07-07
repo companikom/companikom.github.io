@@ -1,0 +1,161 @@
+@media only screen and (max-width: 330px){
+    body{    
+        background-color: #f5f5f5;
+        width: 100%;
+        max-width: 320px;
+        height: 1600px;        
+        font-family: 'Roboto', sans-serif; 
+    }
+
+.conteiner{
+        width: 290px;
+        height: 1400px;       
+    }
+    .section{
+        width: 260px;
+        height: 300px;
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    .namber_a{
+        border-radius: 20px;
+        text-align: center; 
+        padding-top: 5px;       
+        width: 16px;
+        height: 16px;         
+        font-size: 8px;           
+    }
+    .namber_b{
+        border-radius: 10px;        
+        padding-top: 5px;
+        width: 16px;
+        height: 16px;
+        font-size: 8px;      
+    }
+    .title_a{
+        padding-left: 13px;        
+        font-size: 16px;
+        line-height: 1.2;        
+    } 
+    .title_b{padding-left: 13px;        
+        font-size: 16px;
+        line-height: 1.2; }
+    .title{        
+        font-size: 26px;        
+    }
+    .title_p{        
+        font-size: 16px; 
+        line-height: 1;              
+    }
+   
+    .title_section{        
+        font-size: 16px;       
+    }
+    .section_a{
+        text-align: left;
+        display: block; 
+        border-bottom: 2px dotted #756d5e;     
+    }
+    .katigori{
+        font-size: 12px;
+        padding-top: 19px;
+    }
+    .info{        
+        font-size: 12px;
+        text-align: left;                   
+    }
+    .section_b{
+        text-align: left;
+         display: inline;       
+    }
+    /* кнопка */
+.section_batton{
+    width: 260px;
+    height: 410px;
+    margin-left: 16px;
+    margin-top: 20px;
+}
+.title_section{
+    font-size: 14px;   
+}
+.info_a{   
+    font-size: 12px;    
+}
+.batton{
+    display: block;
+    padding-bottom: 15px;
+    border-bottom: 2px dotted #756d5e; 
+}
+.batton_2{
+    display: block;       
+}
+.footer{
+    text-align: center;
+    height: 75px;
+}
+.footer_p{    
+    color: #8f8f8f;
+    font-size: 12px;
+    max-width: 255px;
+    padding-left: 20px; 
+    text-align: center;       
+}
+.footer_info{
+    width: 320px;
+    height: 193px;
+    margin: 0 auto;
+}
+.footer_meseeg{
+    width: 145px;
+    height: 32px;   
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 18px;
+}
+.meseeg{    
+    font-size: 10px;
+}
+.text{    
+    font-size: 10px;       
+}
+/* 2ct */
+.info1{
+    height: 490px;    
+}
+.con{    
+    height: 1300px; 
+    margin-top: 20px;   
+}
+.bat{
+    height: 190px;
+    
+}
+.footer_p{
+    font-size: 12px;
+}
+.info_adres{
+    font-size: 10px;
+}
+.hod{
+    padding-left: 0;
+    padding-top: 5px;
+}
+.batton_p{
+    font-size: 12px;
+}
+.text{
+    font-size: 10px;
+    padding-left: 28px;
+    padding-right: 9px;
+}
+.f{
+    margin-bottom: 30px;
+    margin-left: 17px;
+}
+.footer_info{
+    margin-top: 120px;
+}
+.footer_1{
+    margin-right: 20px;
+}
+}
